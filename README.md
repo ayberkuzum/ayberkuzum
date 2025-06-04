@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ayberk Üzüm. Im a third grade economics and finance student at Bahcesehir University
-- 👀 I’m interested in algo trade,machiene learning,data science and finance.
+- 👀 I’m interested in algo trade,machine learning,data science and finance.
 - 📫 How to reach me: ayberkuzum2005@gmail.com
